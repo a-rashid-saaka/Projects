@@ -17,4 +17,4 @@
   - Total death count
  
     From COvidVaccinations table,
-    Vaccinations against total population
+    - Vaccinations against total population
