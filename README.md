@@ -18,5 +18,10 @@
   - Continents with high death counts
   - Total death count
  
-    From COvidVaccinations table,
+    From CovidVaccinations table,
    - Vaccinations against total population
+
+
+
+
+ ### Data Cleaning of Housing Data    
