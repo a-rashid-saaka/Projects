@@ -4,8 +4,8 @@
 **Data Source**
 
 - The datasets used for this exploration analysis was obtained from  [Here](https://github.com/AlexTheAnalyst/PortfolioProjects)
-- Two tables were used for this analysis, namely CovidDeaths,CovidVaccinations
-- The tables were imported as excel files into Microsoft SQL Server Management Studio for analysis
+- Two tables are used for this analysis, namely CovidDeaths,CovidVaccinations
+- The tables are imported as excel files into Microsoft SQL Server Management Studio for analysis
 
   **Analysis**
   
@@ -24,6 +24,10 @@
 
 
  ### Data Cleaning of Housing Data   
- **Data Source 
+ **Data Source**
 
   - The dataset used for this project from obtained from [Here](https://github.com/AlexTheAnalyst/PortfolioProjects)
+  - The table named Nashville Housing Data for Data Cleaning was used for this project
+  - The dataset is imported as an excel file into Microsoft SQL Server Management Studio to carrying out data cleaning
+
+    **Data cleaning tasks**
