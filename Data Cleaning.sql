@@ -77,7 +77,7 @@ SET OwnerAddressState = PARSENAME(REPLACE(OwnerAddress,',','.'),1)
 
 
 
----Replace Y and No with Yes and No in SoldAsVacant Column
+---Replace Y and N with Yes and No in SoldAsVacant Column
 SELECT SoldAsVacant,
 CASE 
 WHEN SoldAsVacant = 'Y' THEN 'Yes'
