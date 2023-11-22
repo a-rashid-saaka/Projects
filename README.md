@@ -31,3 +31,10 @@
   - The dataset is imported as an excel file into Microsoft SQL Server Management Studio to carrying out data cleaning
 
     **Data cleaning tasks**
+    - Change of date format from Datetime to Date
+    - Populate PropertyAddress where PropertyAddress is null
+    - Split PropertyAddress into PropertyAddress1 and PropertyCity
+    - Split OwnerAddress into OwnerAddress1,OwnerAddressCity and OwnerAddressState
+    - Replace "Y" and "N" with "Yes" and "No" in SoldAsVacant column
+    - Duplicates removal
+    - Deletion of unused columns
