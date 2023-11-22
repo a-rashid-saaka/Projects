@@ -3,8 +3,7 @@
 ### Covid19 Data Exploration
 **Data Source**
 
-- The data used for this exploration analysis was obtained from  [Covid19 Deaths](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx)
-  and [Covid19 Vaccinations](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx) . 
+- The datasets used for this exploration analysis was obtained from  [Here](https://github.com/AlexTheAnalyst/PortfolioProjects)
 - Two tables were used for this analysis, namely CovidDeaths,CovidVaccinations
 - The tables were imported as excel files into Microsoft SQL Server Management Studio for analysis
 
@@ -24,4 +23,7 @@
 
 
 
- ### Data Cleaning of Housing Data    
+ ### Data Cleaning of Housing Data   
+ **Data Source 
+
+  - The dataset used for this project from obtained from [Here](https://github.com/AlexTheAnalyst/PortfolioProjects)
